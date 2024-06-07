@@ -1,10 +1,11 @@
-# hey my self himanshu pathak and i create a simple and stylish calculator using html css and js
+# https://github.com/himanshupathak80/Calculator
+
+
+ Hey my self himanshu pathak and i  today create a simple and stylish calculator using html css and javascript
 
 
 
-
-Description:
-Welcome to ElegantCalc, your sleek solution for quick calculations with style! 
+A Simple and Stylish Calculator ✨
 
 This minimalist calculator is designed for efficiency and aesthetics. With a clean interface and intuitive functionality, ElegantCalc makes crunching numbers a breeze.
 
