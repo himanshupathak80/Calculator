@@ -1,4 +1,8 @@
-hey my self himanshu pathak and i create a simple and stylish calculator using html css and js
+# hey my self himanshu pathak and i create a simple and stylish calculator using html css and js
+
+
+
+
 Description:
 Welcome to ElegantCalc, your sleek solution for quick calculations with style! 
 
